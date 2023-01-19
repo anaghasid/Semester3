@@ -8,7 +8,13 @@ Introduction, linked lists
 
 ## Unit 2
 
-Stacks, queues, infix to prefix, postfix notations, circular queue, Josephus problem
+Stacks, queues, circular queue
+
+Infix to prefix, postfix notations
+
+Matching brackets using stacks
+
+Josephus problem
 
 ## Unit 3
 
