@@ -1,0 +1,25 @@
+25
+create_playlist
+create_music_queue
+add_song 1 -1
+add_song 2 -1
+add_song 3 -1
+add_song 4 -1
+add_song 5 -1
+add_song 6 -1
+add_song 7 -1
+add_song 8 -1
+add_song 9 -1
+add_song 10 -1
+add_song 11 -1
+add_song 12 -1
+add_song 13 -1
+add_song 14 -1
+shuffle 6
+display_playlist
+shuffle 9
+display_playlist
+shuffle 8
+display_playlist
+debug 100 27
+delete_playlist

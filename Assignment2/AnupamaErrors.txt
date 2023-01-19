@@ -1,0 +1,3 @@
+~ Changed deleteFriends. Included return values and variables for all
+~ Print function changed to the required formatting
+~ Changed friends function to include "user=null" case
